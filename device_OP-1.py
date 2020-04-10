@@ -1,5 +1,5 @@
 # name=Teenage Engineering OP-1
-# url=
+# url=https://github.com/ryrun/FL-OP1-controller-script
 
 import fl
 import patterns
