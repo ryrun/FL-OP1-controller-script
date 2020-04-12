@@ -1,6 +1,12 @@
 # Simple Teenage Engineering OP-1 controller script for FLStudio
 
-It adds support for the transport control functions like Play, Stop, Record and Metronome.
+It adds support for the transport control functions like ***Play***, ***Stop***, ***Record*** and ***Metronome***.
+
+## Additional button mappings:
+
+* Drum button = Open FL Channel rack
+* Tape button = Open FL Playlist
+* Mixer button = Open FL Mixer
 
 ## Install
 
